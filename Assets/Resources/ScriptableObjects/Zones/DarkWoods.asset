@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87928774a2c22374c8d1b6a54d7e8b14, type: 3}
+  m_Name: DarkWoods
+  m_EditorClassIdentifier: 
+  zoneName: Dark Woods
+  saveRoom: {fileID: 6665940523273579376, guid: 872757e21bc49954e9a7548a3fae611e,
+    type: 3}
+  savePos: {x: 9.5, y: 29.5}
+  enemyTable: {fileID: 11400000, guid: bd395d4085b5681419c9220f9aa466ad, type: 2}
+  battleBackgrounds:
+  - {fileID: 21300000, guid: 56b6507ffcca59d4386c868ab66750dc, type: 3}
+  - {fileID: 21300000, guid: 8d16c9c62791f0c46b7c6d3a2dbea276, type: 3}
+  canUseArtifacts: 1

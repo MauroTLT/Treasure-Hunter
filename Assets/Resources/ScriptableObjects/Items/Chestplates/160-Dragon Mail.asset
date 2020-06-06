@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc2340fbb9825549883224222a676fb, type: 3}
+  m_Name: 160-Dragon Mail
+  m_EditorClassIdentifier: 
+  id: 160
+  itemName: Dragon Mail
+  description: Armor made with the scales of a dragon.
+  price: 3800
+  sprite: {fileID: -5755675967578871711, guid: cf27ac9d52bc1134d8f1736e69e9ea63, type: 3}
+  attack: 15
+  dextery: 10
+  defense: 45
+  resistance: 35

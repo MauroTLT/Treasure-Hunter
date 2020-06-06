@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gorgon
+  m_Controller: {fileID: 9100000, guid: 368461888652cdb4a9f2745389dd251b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a0fe5ee27925317488da23594be72d9c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fd346501b3dbe8144baec9de6a70ef48, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a083b32b543e6d4b998ace9db09679e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4bf46c98d373b194696402e75f113264, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ab1c18a111a2a5148ba37657b7643226, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d2f3ae1b893bc94cbcaa27126b3e48c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 17c6fc9c527a7db4bab7e67801ec492c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cad705f71b23ed7449d2f10847c59ed6, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41b7ce3cffab9b5418008718f238b96f, type: 3}
+  m_Name: Supernova
+  m_EditorClassIdentifier: 
+  id: 20
+  skillName: Supernova
+  description: Hit the enemy with a blow that can convert it into a supernova.
+  element: {fileID: 11400000, guid: 018ed449a9b28894b96ca8e46ee320c3, type: 2}
+  cost: 35
+  level: 3
+  levelToLearn: 30

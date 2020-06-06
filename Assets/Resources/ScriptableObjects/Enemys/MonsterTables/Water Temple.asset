@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f49150429ee51a64fb86ce44f43d6164, type: 3}
+  m_Name: Water Temple
+  m_EditorClassIdentifier: 
+  possibleEncounters:
+  - {fileID: 11400000, guid: df0826cead60542449838c4d24ee5a30, type: 2}
+  - {fileID: 11400000, guid: 0871d3ee81778b348ae8a6c47c9b1f47, type: 2}
+  - {fileID: 11400000, guid: 7e3418deea3e6534f93521c8d1ba3c48, type: 2}
+  - {fileID: 11400000, guid: bc7baa7d46f50b148a44caee5b35de0b, type: 2}
+  - {fileID: 11400000, guid: af302835e8d0f2946b59aab6c62d5c4b, type: 2}
+  - {fileID: 11400000, guid: 9051f261d2f961c45b8aac138a6b2480, type: 2}
+  - {fileID: 11400000, guid: 4a866ddec2901bf499298362382f55ea, type: 2}
+  - {fileID: 11400000, guid: ea154ed4440e6604986119f8c761bf0c, type: 2}
+  appearProb: 1e00000028000000320000001e0000002800000032000000190000000f000000
+  groupAmount: 0400000002000000020000000400000004000000030000000200000001000000

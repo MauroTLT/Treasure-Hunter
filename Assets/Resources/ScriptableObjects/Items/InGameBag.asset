@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb26839f753d0840b40f7e74c2561ee, type: 3}
+  m_Name: InGameBag
+  m_EditorClassIdentifier: 
+  slots:
+  - item: {fileID: 11400000, guid: b7ac209024c084a4886017da1d7b5d7f, type: 2}
+    amount: 9
+  - item: {fileID: 11400000, guid: 94f6ca4f7110d374e8f728968c8def79, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 765311db7f7ea04478b0dc2c2b60d495, type: 2}
+    amount: 4
+  - item: {fileID: 11400000, guid: 40a0b1b3512b60a49928d2ab9347c4a6, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 2106d4b1afa35304c8b89f289c4a70fa, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: 08a8180dfb5d4a54a9659e6d43b5c9b0, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 7681369fce5e5a546b82a66e3c970fd4, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 6a313fbc5f5224545a25b77e84e431b1, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: 2b21994f444423d439471e67bec1c703, type: 2}
+    amount: 6
+  - item: {fileID: 11400000, guid: cf9e35dbcb72f164ba25f47a31a5e88b, type: 2}
+    amount: 11
+  - item: {fileID: 11400000, guid: fa2b0039764282a45bfe643d1be4dc75, type: 2}
+    amount: 12
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 11400000, guid: fcb0b9e317e319d4fb46fca6c5c41bd1, type: 2}
+    amount: 12
+  - item: {fileID: 11400000, guid: 11b5ebc9b5c5ce049bfe914cf4d94d7e, type: 2}
+    amount: 12
+  - item: {fileID: 11400000, guid: 59990da84ce86fd4eaffcfe419d0875c, type: 2}
+    amount: 1
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0

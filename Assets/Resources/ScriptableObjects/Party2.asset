@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 393065d2674c53d4b8e8f7096e706d4d, type: 3}
+  m_Name: Party2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: fabfcaf6ec947d447b1a850050257f27, type: 3}
+  fullname: Leo
+  level: 1
+  element: {fileID: 0}
+  maxHp: 20
+  maxSp: 5
+  attack: 15
+  dextery: 10
+  defense: 17
+  resistance: 3
+  hp: 20
+  sp: 5
+  skills: []
+  totalXp: 0
+  weapon: {fileID: 0}
+  helmet: {fileID: 11400000, guid: c68198cad47accc49a2f99453f9be4c6, type: 2}
+  chestplate: {fileID: 0}
+  shield: {fileID: 0}
+  necklace: {fileID: 0}
+  canLearn:
+  - {fileID: 11400000, guid: 0e189817a34d86049bfeda047de9ee00, type: 2}
+  - {fileID: 11400000, guid: 6d86cef2d65268e43aa0e2a784db9b13, type: 2}
+  - {fileID: 11400000, guid: e3af9ac22f91c4a47ba32bd44bc27eb4, type: 2}
+  - {fileID: 11400000, guid: 16b2ca0c2c73f6648b125927ced5471d, type: 2}
+  - {fileID: 11400000, guid: 43eb46166bf0bf14588c6714af23a28b, type: 2}
+  - {fileID: 11400000, guid: ab86c3c186b5a274a904eb684be5b11d, type: 2}
+  - {fileID: 11400000, guid: 7c23248c3b628d1419870ad34249baaf, type: 2}
+  - {fileID: 11400000, guid: c48a90952e1e01f4398ec23a698c0dee, type: 2}
+  - {fileID: 11400000, guid: 156de121f7d832347a4cf661702e3fe3, type: 2}
+  - {fileID: 11400000, guid: 5601591c5a6481148ae8ca8bf7385f03, type: 2}

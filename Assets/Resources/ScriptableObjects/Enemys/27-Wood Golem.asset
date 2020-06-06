@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e71752c80958c4098ed9eae05f41a7, type: 3}
+  m_Name: 27-Wood Golem
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: b433dda19d49f3140ac99f48120bb39b, type: 3}
+  fullname: Wood Golem
+  level: 15
+  element: {fileID: 11400000, guid: 624c2d33401737040a6020a3d475e443, type: 2}
+  maxHp: 112
+  maxSp: 30
+  attack: 78
+  dextery: 0
+  defense: 152
+  resistance: 75
+  hp: 0
+  sp: 0
+  skills: []
+  gold: 208
+  xpDrop: 185
+  drop: {fileID: 11400000, guid: b08cfbc2919e589488a17805d8625939, type: 2}
+  probItemDrop: 30

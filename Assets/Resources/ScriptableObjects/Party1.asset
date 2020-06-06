@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 393065d2674c53d4b8e8f7096e706d4d, type: 3}
+  m_Name: Party1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -2311659948842064771, guid: 51af88a342c47b6408e68683d5fd3115, type: 3}
+  fullname: Dekar
+  level: 1
+  element: {fileID: 0}
+  maxHp: 20
+  maxSp: 10
+  attack: 20
+  dextery: 7
+  defense: 17
+  resistance: 3
+  hp: 20
+  sp: 10
+  skills:
+  - {fileID: 11400000, guid: bede1193c41781b46830336ef1013905, type: 2}
+  totalXp: 0
+  weapon: {fileID: 11400000, guid: 2106d4b1afa35304c8b89f289c4a70fa, type: 2}
+  helmet: {fileID: 11400000, guid: c68198cad47accc49a2f99453f9be4c6, type: 2}
+  chestplate: {fileID: 0}
+  shield: {fileID: 0}
+  necklace: {fileID: 0}
+  canLearn:
+  - {fileID: 11400000, guid: bede1193c41781b46830336ef1013905, type: 2}
+  - {fileID: 11400000, guid: b8c083adf09b2eb4b85d7a5cd8184442, type: 2}
+  - {fileID: 11400000, guid: 2271e590845021742937a64832a55f0c, type: 2}
+  - {fileID: 11400000, guid: 6ace598704c4f0d4da4c8cdb5d0fd3da, type: 2}
+  - {fileID: 11400000, guid: 48778655a19c18845ac943fb9e7a540c, type: 2}
+  - {fileID: 11400000, guid: 5c8a46a37e170f14e81a1aa102a76dcc, type: 2}
+  - {fileID: 11400000, guid: c48a90952e1e01f4398ec23a698c0dee, type: 2}
+  - {fileID: 11400000, guid: 6c9eb61211986c148b81b64fdce7c54e, type: 2}
+  - {fileID: 11400000, guid: 4c04e1a78c6ed0b45aad9054e2d6abc0, type: 2}
+  - {fileID: 11400000, guid: b0dad7d92a14c62408172bb7c41bd5e8, type: 2}
+  - {fileID: 11400000, guid: d5bde4e8a17d2494db74db93159d6725, type: 2}
+  - {fileID: 11400000, guid: 5601591c5a6481148ae8ca8bf7385f03, type: 2}

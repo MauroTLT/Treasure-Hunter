@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f49150429ee51a64fb86ce44f43d6164, type: 3}
+  m_Name: DarkWoods
+  m_EditorClassIdentifier: 
+  possibleEncounters:
+  - {fileID: 11400000, guid: 3d6f6ab10bf132c4491f447dd4436af3, type: 2}
+  - {fileID: 11400000, guid: 153312029a4163b43a3c14f0427ab7f1, type: 2}
+  - {fileID: 11400000, guid: 7fa4cb86567bc924dafd11de6fc47a33, type: 2}
+  - {fileID: 11400000, guid: cf0f58a0f3c20c442b91394faca7dfdd, type: 2}
+  - {fileID: 11400000, guid: bc7baa7d46f50b148a44caee5b35de0b, type: 2}
+  - {fileID: 11400000, guid: 479ca36788e712142918d2e4d95bb8a2, type: 2}
+  appearProb: 3200000019000000190000000f000000280000000f000000
+  groupAmount: 040000000200000002000000020000000400000001000000

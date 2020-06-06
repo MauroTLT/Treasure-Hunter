@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87928774a2c22374c8d1b6a54d7e8b14, type: 3}
+  m_Name: WaterTemple
+  m_EditorClassIdentifier: 
+  zoneName: Water Temple
+  saveRoom: {fileID: 4266552257560877999, guid: 7f6924cd57ff2184184206a9290865a0,
+    type: 3}
+  savePos: {x: 179.5, y: 39.5}
+  enemyTable: {fileID: 11400000, guid: 0aa65e8313624da4d905bcc97e0eb189, type: 2}
+  battleBackgrounds:
+  - {fileID: 21300000, guid: 894dfa2070678b54e80c770b8e93d8a4, type: 3}
+  - {fileID: 21300000, guid: 954c3c3f5cec792428ed8b3ab69fce53, type: 3}
+  - {fileID: 21300000, guid: 22a6ba94c5b006f409d49d63c1796c85, type: 3}
+  canUseArtifacts: 1

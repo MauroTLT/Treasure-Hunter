@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87928774a2c22374c8d1b6a54d7e8b14, type: 3}
+  m_Name: LightWoods
+  m_EditorClassIdentifier: 
+  zoneName: Light Woods
+  saveRoom: {fileID: 8044859878402116760, guid: 40396aada7a977744918d1e4ae52c627,
+    type: 3}
+  savePos: {x: 148.5, y: -10.5}
+  enemyTable: {fileID: 11400000, guid: 6bc90bbed98cb3c46bec7eb2e43b012e, type: 2}
+  battleBackgrounds:
+  - {fileID: 21300000, guid: 56b6507ffcca59d4386c868ab66750dc, type: 3}
+  - {fileID: 21300000, guid: 8d16c9c62791f0c46b7c6d3a2dbea276, type: 3}
+  canUseArtifacts: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e71752c80958c4098ed9eae05f41a7, type: 3}
+  m_Name: 11-Buffalo
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: f0704bd23c1a721438bf644bca82113b, type: 3}
+  fullname: Buffalo
+  level: 8
+  element: {fileID: 0}
+  maxHp: 52
+  maxSp: 9
+  attack: 38
+  dextery: 25
+  defense: 30
+  resistance: 15
+  hp: 0
+  sp: 0
+  skills:
+  - {fileID: 11400000, guid: 5882582bdf38a654fba1e586549395c9, type: 2}
+  gold: 38
+  xpDrop: 30
+  drop: {fileID: 11400000, guid: 85b02f60e361f62428798363860b9c27, type: 2}
+  probItemDrop: 25
