@@ -1,0 +1,34 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'lernaIsland_4_mesh_0007.obj'
+
+# Vertices (Count = 12)
+v -15 -12 0
+v -16 -12 0
+v -16 -11 0
+v -15 -11 0
+v -12 -14 0
+v -13 -14 0
+v -13 -13 0
+v -12 -13 0
+v -18 -14 0
+v -19 -14 0
+v -19 -13 0
+v -18 -13 0
+
+# Texture cooridinates (Count = 4)
+vt 0.3341493 0.8752294
+vt 0.3537332 0.8752294
+vt 0.3537332 0.9045871
+vt 0.3341493 0.9045871
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g lernaIsland_4_mesh_0007
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+

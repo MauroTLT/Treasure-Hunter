@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c51265b2f9a5ce45a5538a5792cea52, type: 3}
+  m_Name: 7-Vitamins
+  m_EditorClassIdentifier: 
+  id: 7
+  itemName: Vitamins
+  description: Increases the maximum of HP.
+  price: 0
+  sprite: {fileID: 3104879333817542562, guid: cf27ac9d52bc1134d8f1736e69e9ea63, type: 3}
+  statUp: 2
+  amount: 5

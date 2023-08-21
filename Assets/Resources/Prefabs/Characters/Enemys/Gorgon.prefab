@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7497362174915835264
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6044090498211513514, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_Name
+      value: Gorgon
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.239998
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513516, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513515, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -431145090982683753, guid: 41df99cd34a469842887b40ac39e0bae,
+        type: 3}
+    - target: {fileID: 6044090498211513517, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513555, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513519, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: a7e015411f554914baa8b5d898a4ea97,
+        type: 2}
+    - target: {fileID: 6044090498211513513, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: stats
+      value: 
+      objectReference: {fileID: 11400000, guid: 5486f25f61558f24aac0b387be4b77ac,
+        type: 2}
+    - target: {fileID: 6044090498211513513, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: text
+      value: I'm here as a guardian of the gem, if you want it then prove your strength!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513513, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: triggerText
+      value: I'm not a statue brat! I'm the guardian of the gem, don't think you can
+        sneak out of me like that.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044090498211513554, guid: c05a46889df633e4eb44f1e01869dcda,
+        type: 3}
+      propertyPath: activateIf
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c05a46889df633e4eb44f1e01869dcda, type: 3}

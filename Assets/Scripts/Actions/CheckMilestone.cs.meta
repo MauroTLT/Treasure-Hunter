@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ba2b90fb5d5a30f4ba323290e53bd7e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mileStones: {fileID: 11400000, guid: 870c0090114123c48b544f33c3b8db30, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

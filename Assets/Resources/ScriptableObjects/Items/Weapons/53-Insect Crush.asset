@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62343307fc6c9b74fac61b8d188328da, type: 3}
+  m_Name: 53-Insect Crush
+  m_EditorClassIdentifier: 
+  id: 53
+  itemName: Insect Crush
+  description: A very effective sword to use against insects and spiders.
+  price: 650
+  sprite: {fileID: 8889189633575515595, guid: cf27ac9d52bc1134d8f1736e69e9ea63, type: 3}
+  effectiveTo: {fileID: 11400000, guid: b74939fe9b2c73d469e34e0b641365c4, type: 2}
+  element: {fileID: 11400000, guid: 6ee9023658c8d9f4fad42bd3693de8e4, type: 2}
+  attack: 20
+  dextery: 10
+  canUse: 3

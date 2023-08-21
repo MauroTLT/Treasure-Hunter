@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e71752c80958c4098ed9eae05f41a7, type: 3}
+  m_Name: 23-Big Bat
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 5eb23b8cdb7647643ab2b5e0513c75fe, type: 3}
+  fullname: Big Bat
+  level: 10
+  element: {fileID: 0}
+  maxHp: 48
+  maxSp: 13
+  attack: 48
+  dextery: 40
+  defense: 40
+  resistance: 15
+  hp: 0
+  sp: 0
+  skills:
+  - {fileID: 11400000, guid: 61606e532929275439d72dea690bb0ae, type: 2}
+  gold: 40
+  xpDrop: 35
+  drop: {fileID: 0}
+  probItemDrop: 0

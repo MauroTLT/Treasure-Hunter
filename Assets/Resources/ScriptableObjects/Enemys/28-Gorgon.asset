@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e71752c80958c4098ed9eae05f41a7, type: 3}
+  m_Name: 28-Gorgon
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: a74bc1d57c3e8774d874ce61635ab043, type: 3}
+  fullname: Gorgon
+  level: 20
+  element: {fileID: 11400000, guid: 44b33b9693c1dde479009da58db1e321, type: 2}
+  maxHp: 1500
+  maxSp: 320
+  attack: 150
+  dextery: 75
+  defense: 120
+  resistance: 100
+  hp: 0
+  sp: 0
+  skills:
+  - {fileID: 11400000, guid: 5882582bdf38a654fba1e586549395c9, type: 2}
+  - {fileID: 11400000, guid: 7311fcdfdb0661a4bb9e5a29a613aca6, type: 2}
+  gold: 5000
+  xpDrop: 4000
+  drop: {fileID: 11400000, guid: 8f87e344c42142d4f8911d7b9296446e, type: 2}
+  probItemDrop: 100
+  isBoss: 1

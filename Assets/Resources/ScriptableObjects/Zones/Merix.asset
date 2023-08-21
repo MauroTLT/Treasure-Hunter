@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87928774a2c22374c8d1b6a54d7e8b14, type: 3}
+  m_Name: Merix
+  m_EditorClassIdentifier: 
+  zoneName: Merix
+  saveRoom: {fileID: 7627039896045530225, guid: 82d60a7ddedb04546a4c1742357ceeb8,
+    type: 3}
+  savePos: {x: 8.5, y: 20}
+  enemyTable: {fileID: 0}
+  battleBackgrounds: []
+  canUseArtifacts: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e71752c80958c4098ed9eae05f41a7, type: 3}
+  m_Name: 25-Skeleton
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 3e958c845e84f9f47a1e6251cf76885b, type: 3}
+  fullname: Skeleton
+  level: 14
+  element: {fileID: 0}
+  maxHp: 112
+  maxSp: 0
+  attack: 84
+  dextery: 0
+  defense: 32
+  resistance: 50
+  hp: 0
+  sp: 0
+  skills: []
+  gold: 250
+  xpDrop: 150
+  drop: {fileID: 11400000, guid: 8908b67c5863448448d18d080aed6594, type: 2}
+  probItemDrop: 20

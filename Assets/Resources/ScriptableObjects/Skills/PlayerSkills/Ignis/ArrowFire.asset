@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41b7ce3cffab9b5418008718f238b96f, type: 3}
+  m_Name: ArrowFire
+  m_EditorClassIdentifier: 
+  id: 15
+  skillName: Fire Arrow
+  description: Shoot an incendiary arrow.
+  element: {fileID: 11400000, guid: 44b33b9693c1dde479009da58db1e321, type: 2}
+  cost: 3
+  level: 1
+  levelToLearn: 4

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 575d4ace9af1bec46bc2a4a7916828fd, type: 3}
+  m_Name: Ventus
+  m_EditorClassIdentifier: 
+  element: 6
+  advantages: 0800000007000000
+  disadvantages: 030000000400000005000000
+  sprite: {fileID: 6754167001606616780, guid: cf27ac9d52bc1134d8f1736e69e9ea63, type: 3}

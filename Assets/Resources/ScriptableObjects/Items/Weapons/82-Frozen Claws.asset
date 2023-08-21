@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62343307fc6c9b74fac61b8d188328da, type: 3}
+  m_Name: 82-Frozen Claws
+  m_EditorClassIdentifier: 
+  id: 82
+  itemName: Frozen Claws
+  description: 'Claws with very sharp razors made of the most strong ice.
+
+    It never melts.'
+  price: 1500
+  sprite: {fileID: -3620495591831924190, guid: cf27ac9d52bc1134d8f1736e69e9ea63, type: 3}
+  effectiveTo: {fileID: 11400000, guid: d49a7db7b0f336e4fabbf4f8fe5c3f9b, type: 2}
+  element: {fileID: 11400000, guid: 1519e82e5d59ee748adfbf1f3e3c7b52, type: 2}
+  attack: 40
+  dextery: 20
+  canUse: 2

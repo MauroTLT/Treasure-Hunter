@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f49150429ee51a64fb86ce44f43d6164, type: 3}
+  m_Name: MoltenCave
+  m_EditorClassIdentifier: 
+  possibleEncounters:
+  - {fileID: 11400000, guid: 479ca36788e712142918d2e4d95bb8a2, type: 2}
+  - {fileID: 11400000, guid: 3e8791bb6b780c04cae38fc09f7ad089, type: 2}
+  - {fileID: 11400000, guid: 2270ddf0d24641f44bf9b8f4b9d05bd4, type: 2}
+  - {fileID: 11400000, guid: f8b759e9170cc344990302a01f8db461, type: 2}
+  - {fileID: 11400000, guid: 686cfb8f9232d984ba4e21395cb1ecf5, type: 2}
+  - {fileID: 11400000, guid: bc7baa7d46f50b148a44caee5b35de0b, type: 2}
+  appearProb: 32000000280000001e000000140000002800000032000000
+  groupAmount: 030000000300000002000000020000000300000004000000
